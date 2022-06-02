@@ -49,7 +49,7 @@ d) Then the pixels are multiplied with the scale to get the distance in meters
 
 ```
 
-## Perspective forshortening
+## Perspective foreshortening
 
 ```
 a) The stretch in length due to the camera viewing angle is to be considered
