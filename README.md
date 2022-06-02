@@ -4,7 +4,9 @@ Photogrammetry for extraction of object coordinates from featureless terrain
 
 ## Photogrammetry
 ```
-This is the science or the process of obtaining reliable information (location, coordinates, perspectives, shape, size, etc.) about objects, environments or situations through recording, measuring and interpreting photographics images.
+This is the science or the process of obtaining reliable information (location, coordinates, perspectives, shape, size, etc.) about objects,
+
+environments or situations through recording, measuring and interpreting photographics images.
 
 ```
 
